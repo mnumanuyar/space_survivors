@@ -1,4 +1,4 @@
-# Godot 101: Classic Shmup
+# Space Survivors
 
 ![alt](http://kidscancode.org/godot_recipes/4.x/img/2d_101_screenshot.png)
 
